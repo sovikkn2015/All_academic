@@ -27,3 +27,7 @@ Developers_survey_AI.twb
 6. M.Sc. Geosciences research on how to determine mass balance of three Swiss Apls glaciers and re-construct their time series (Developed with meteorological and glacial data and analyzed with programs developed in IDL programming language) (complete thesis is in website)
 Attachments:
 M.Sc. Thesis Final Presentation.ppsx
+
+7. This is a Keras based LSTM Deep Learning Model to detect point anomalies in time series data.
+Attachments:
+DeepLearningLSTM.py
