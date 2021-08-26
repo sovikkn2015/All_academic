@@ -1,4 +1,4 @@
-# All_academic
+# Data Science and Analytics from Different stages -- Research, Side-works
 
 1. Project at Hanlon Financial Lab to understand market perceptions of crude oil price based on WTI NYMEX crude oil futures, the impact of shale gas exploration on WTI crude oil price returns and variance, analyze equity returns and volatility among energy companies involved in shale exploration.
 Attachments:
